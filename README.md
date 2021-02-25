@@ -14,7 +14,7 @@ Preprint of already published papers are available here:
 
 ### 🔗 Links
 
-- [!Personnal website](https://antoineandre.github.io/)
-- [!Vernier project website](https://projects.femto-st.fr/vernier/en)
-- [!Orcid ID](https://orcid.org/0000-0003-3318-4769)
-- [!ResearchGate](https://www.researchgate.net/profile/Antoine-Andre-2)
+- [Personnal website](https://antoineandre.github.io/)
+- [Vernier project website](https://projects.femto-st.fr/vernier/en)
+- [Orcid ID](https://orcid.org/0000-0003-3318-4769)
+- [ResearchGate](https://www.researchgate.net/profile/Antoine-Andre-2)
