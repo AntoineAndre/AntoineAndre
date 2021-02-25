@@ -8,9 +8,9 @@ My current research focuses on the pose measurement with nanometric resolution o
 
 Preprint of already published papers are available here:
 
-- [!Sensing One Nanometer over Ten Centimeters: A Micro-Encoded Target for Visual In-Plane Position Measurement](https://antoineandre.github.io/category/tmech_hal.pdf)
-- [!Robust phase-based decoding for absolute (X,Y,Θ) positioning by vision](https://antoineandre.github.io/category/TIM_HAL.pdf)
-- [!Robust, precise and scalable: A phase-encoded pattern for visual X, Y, $\theta$ positioning](https://antoineandre.github.io/category/MARSS_full_paper_ANDRE_HAL.pdf)
+- [Sensing One Nanometer over Ten Centimeters: A Micro-Encoded Target for Visual In-Plane Position Measurement](https://antoineandre.github.io/category/tmech_hal.pdf)
+- [Robust phase-based decoding for absolute (X,Y,Θ) positioning by vision](https://antoineandre.github.io/category/TIM_HAL.pdf)
+- [Robust, precise and scalable: A phase-encoded pattern for visual X, Y, $\theta$ positioning](https://antoineandre.github.io/category/MARSS_full_paper_ANDRE_HAL.pdf)
 
 ### 🔗 Links
 
