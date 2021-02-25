@@ -4,7 +4,7 @@
 
 ### 🔬 Research
 
-My current research focuses on the pose measurement with nanometric resolution of periodic patterns with the help of computer vision. Developped tool to achieve this is available as precompiled .dll [!here](https://projects.femto-st.fr/vernier/en).
+My current research focuses on the pose measurement with nanometric resolution of periodic patterns with the help of computer vision. Developped tool to achieve this is available as a precompiled `.dll` [here](https://projects.femto-st.fr/vernier/en).
 
 Preprint of already published papers are available here:
 
