@@ -12,6 +12,23 @@ Preprint of already published papers are available here:
 - [Robust phase-based decoding for absolute (X,Y,Θ) positioning by vision](https://antoineandre.github.io/category/TIM_HAL.pdf)
 - [Robust, precise and scalable: A phase-encoded pattern for visual X, Y, $\theta$ positioning](https://antoineandre.github.io/category/MARSS_full_paper_ANDRE_HAL.pdf)
 
+### 📚 Teaching
+
+Currently giving practical courses at ENSMM (Besançon) to 3rd year engineer students. Aborded topics are highly linked to computer vision such as:
+
+- Camera calibration
+- 2 cameras homography (see github repo aruco_video_homography)
+- 3D reconstruction from 2 cameras
+- 3D triangulation
+
+I also had the opportunity to give practical courses on microcontrollers (PIC16F) to second year students.
+
+### 🎓 Background
+
+- ENSMM (Franche-comté, France) engineer diploma, specialization on mechatronics and robotics
+- Double diploma with the Franche-Comté University in micro robotics
+- 7 months long internship at the Tokyo Denki University (Tokyo, Japan) focusing on control of biomechanical hand.
+
 ### 🔗 Links
 
 - [Personnal website](https://antoineandre.github.io/)
