@@ -4,7 +4,7 @@
 
 ### 🔬 Research
 
-My current research focuses on the pose measurement with nanometric resolution of periodic patterns with the help of computer vision. Developped tool to achieve this is available as a precompiled `.dll` [here](https://projects.femto-st.fr/vernier/en).
+My current research focuses on the __pose measurement with nanometric resolution__ of periodic patterns with the help of __computer vision__. Developped tool to achieve this is available as a precompiled `.dll` [here](https://projects.femto-st.fr/vernier/en).
 
 Preprint of already published papers are available here:
 
@@ -25,9 +25,9 @@ I also had the opportunity to give practical courses on microcontrollers (PIC16F
 
 ### 🎓 Background
 
-- ENSMM (Franche-comté, France) engineer diploma, specialization on mechatronics and robotics
-- Double diploma with the Franche-Comté University in micro robotics
-- 7 months long internship at the Tokyo Denki University (Tokyo, Japan) focusing on control of biomechanical hand.
+- __Engineer degree at ENSMM__ (National Superior School of Mecanics and Microtechnics), __robotics and mecatronics__ specialization.
+- Microsystems, Instrumentation and Robotics __Master double degree__ at University of Franche-Comté, Besançon.
+- 6 months long __internship at the Tokyo Denki University__ (Tokyo, Japan) working on compliant command based on Serial Elastic Actuators for prostethics hands.
 
 ### 🔗 Links
 
