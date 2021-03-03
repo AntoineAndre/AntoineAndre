@@ -34,7 +34,7 @@ I also had the opportunity to give practical courses on microcontrollers (PIC16F
 - [Personnal website](https://antoineandre.github.io/)
 - [Vernier project website](https://projects.femto-st.fr/vernier/en)
 
-[<img src="https://lh3.googleusercontent.com/proxy/_qK94koDOPAi2WXYmRGOO4IdUOqw8pR4nyREDPAh6yjQUt5ied8xYa6X8uXvfjTkJQ0Z40d2tgDn0eEYmYosO0MDUSuPpSBIgXQUJAvxS6H_6LqcFb_EXkK4L-0LwcXtRa1BT7Y" width="50"/>](https://www.researchgate.net/profile/Antoine-Andre-2)
+[<img src="https://i1.rgstatic.net/ii/institution.image/AS:267458164789257%401440778403888_l" width="50"/>](https://www.researchgate.net/profile/Antoine-Andre-2)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/768px-ORCID_iD.svg.png" width="50"/>](https://orcid.org/0000-0003-3318-4769)
 [<img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="50"/>](https://www.linkedin.com/in/andreantoine/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/1024px-Google_Scholar_logo.svg.png" width="50"/>](https://scholar.google.fr/citations?user=iopU-RcAAAAJ&hl=fr)
