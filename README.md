@@ -25,7 +25,7 @@ I also had the opportunity to give practical courses on microcontrollers (PIC16F
 
 ### 🎓 Background
 
-- __Engineer degree at ENSMM__ (National Superior School of Mecanics and Microtechnics), __robotics and mecatronics__ specialization.
+- __Engineer degree at ENSMM__ (National Superior School of Mechanics and Microtechnics), __robotics and mechatronics__ specialization.
 - Microsystems, Instrumentation and Robotics __Master double degree__ at University of Franche-Comté, Besançon.
 - 6 months long __internship at the Tokyo Denki University__ (Tokyo, Japan) working on compliant command based on Serial Elastic Actuators for prostethics hands.
 
