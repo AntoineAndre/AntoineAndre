@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-### I am Antoine André, a third year PhD student working on nano positioning by vision at the FEMTO-ST Institute.
+### I am Antoine André, a young PhD working on nano positioning by vision at the FEMTO-ST Institute.
 
 ### 🔬 Research
 
 My current research focuses on the __pose measurement with nanometric resolution__ of periodic patterns with the help of __computer vision__. Developped tool to achieve this is available as a precompiled `.dll` [here](https://projects.femto-st.fr/vernier/en).
 
+More details about the process of high resolution pose measurement can be found on [my website](https://antoineandre.github.io/)
+
+An **open source version** of this pose measurement method is available for the 1D case with matlab in [this repo](https://github.com/AntoineAndre/1D_phase_measurement)
+
 Preprint of already published papers are available here:
 
-- [Sensing One Nanometer over Ten Centimeters: A Micro-Encoded Target for Visual In-Plane Position Measurement](https://antoineandre.github.io/category/tmech_hal.pdf)
-- [Robust phase-based decoding for absolute (X,Y,Θ) positioning by vision](https://antoineandre.github.io/category/TIM_HAL.pdf)
-- [Robust, precise and scalable: A phase-encoded pattern for visual X, Y, Θ positioning](https://antoineandre.github.io/category/MARSS_full_paper_ANDRE_HAL.pdf)
+- [Sensing One Nanometer over Ten Centimeters: A Micro-Encoded Target for Visual In-Plane Position Measurement](https://antoineandre.github.io/media/publications/tmech_hal.pdf)
+- [Robust phase-based decoding for absolute (X,Y,Θ) positioning by vision](https://antoineandre.github.io/media/publications/TIM_HAL.pdf)
+- [Robust, precise and scalable: A phase-encoded pattern for visual X, Y, Θ positioning](https://antoineandre.github.io/media/publications/MARSS_full_paper_ANDRE_HAL.pdf)
 
 ### 📚 Teaching
 
