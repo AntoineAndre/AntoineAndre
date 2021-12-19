@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I am Antoine André, a young PhD working on nano positioning by vision at the FEMTO-ST Institute.
+### I am Antoine André, a Postdoctoral researcher in Computer Vision at the [MIS](https://www.mis.u-picardie.fr/) laboratory of research, in the PR team (Robotics perception).
 
 ### 🔬 Research
 
@@ -8,7 +8,7 @@ My current research focuses on the __pose measurement with nanometric resolution
 
 More details about the process of high resolution pose measurement can be found on [my website](https://antoineandre.github.io/)
 
-An **open source version** of this pose measurement method is available for the 1D case with matlab in [this repo](https://github.com/AntoineAndre/1D_phase_measurement)
+An **open source version** of this pose measurement method is available for the 1D case with matlab in [this repository](https://github.com/AntoineAndre/1D_phase_measurement)
 
 Preprint of already published papers are available here:
 
@@ -18,7 +18,7 @@ Preprint of already published papers are available here:
 
 ### 📚 Teaching
 
-Currently giving practical courses at ENSMM (Besançon) to 3rd year engineer students. Aborded topics are highly linked to computer vision such as:
+I gave practical courses for 3 years at ENSMM (Besançon) to 3rd year engineer students (M2 students). Aborded topics were highly linked to computer vision such as:
 
 - Camera calibration
 - 2 cameras homography (see github repo aruco_video_homography)
