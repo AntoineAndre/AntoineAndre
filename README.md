@@ -16,6 +16,8 @@ Preprint of already published papers are available here:
 - [Robust phase-based decoding for absolute (X,Y,Θ) positioning by vision](https://antoineandre.github.io/media/publications/TIM_HAL.pdf)
 - [Robust, precise and scalable: A phase-encoded pattern for visual X, Y, Θ positioning](https://antoineandre.github.io/media/publications/MARSS_full_paper_ANDRE_HAL.pdf)
 
+The manuscript of the thesis is available [here](https://github.com/AntoineAndre/PhD_manuscript) (in french).
+
 ### 📚 Teaching
 
 I gave practical courses for 3 years at ENSMM (Besançon) to 3rd year engineer students (M2 students). Aborded topics were highly linked to computer vision such as:
