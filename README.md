@@ -1,10 +1,20 @@
 ### Hi there 👋
 
-### I am Antoine André, a Postdoctoral researcher in Computer Vision at the [MIS](https://www.mis.u-picardie.fr/) laboratory of research, in the PR team (Robotics perception).
+### I am Antoine André, a Postdoctoral researcher in Computer Vision at the [JRL CNRS-AIST](https://unit.aist.go.jp/jrl-22022/index_en.html) laboratory of research.
 
 ### 🔬 Research
 
-My current research focuses on the __pose measurement with nanometric resolution__ of periodic patterns with the help of __computer vision__. Developped tool to achieve this is available as a precompiled `.dll` [here](https://projects.femto-st.fr/vernier/en).
+**Post-doc**
+
+My current research focuses on __visual servoing with great precision and large convergence domain__. To do this, __omnidirectional cameras__ are taken in account, since they can provide a full 360 degrees representation of the scene. This representation allows to work with a spherical representation of the images, providing a better understanding of the scene.
+
+These post-doctoral researches started in Amiens, in the [MIS](https://www.mis.u-picardie.fr/) laboratory of research, in the PR team (Robotics perception).
+
+More details can be found in the 2022 CVPR conference paper : [Photometric Visual Gyroscope for Full-View Spherical Camera](https://openaccess.thecvf.com/content/CVPR2022W/OmniCV/papers/Andre_Photometric_Visual_Gyroscope_for_Full-View_Spherical_Camera_CVPRW_2022_paper.pdf)
+
+**Ph.D.**
+
+My previous research was focusing on the __pose measurement with nanometric resolution__ of periodic patterns with the help of __microscopy computer vision__. Developped tool to achieve this is available as a precompiled `.dll` [here](https://projects.femto-st.fr/vernier/en).
 
 More details about the process of high resolution pose measurement can be found on [my website](https://antoineandre.github.io/)
 
