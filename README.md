@@ -47,6 +47,7 @@ I also had the opportunity to give practical courses on microcontrollers (PIC16F
 
 ### 🔗 Links
 
+- [Resume](https://antoineandre.github.io/curriculum/main_cv_en.pdf)
 - [Personnal website](https://antoineandre.github.io/)
 - [Vernier project website](https://projects.femto-st.fr/vernier/en)
 
