@@ -52,5 +52,5 @@ I also had the opportunity to give practical courses on microcontrollers (PIC16F
 
 [<img src="https://i1.rgstatic.net/ii/institution.image/AS:267458164789257%401440778403888_l" width="50"/>](https://www.researchgate.net/profile/Antoine-Andre-2)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/768px-ORCID_iD.svg.png" width="50"/>](https://orcid.org/0000-0003-3318-4769)
-[<img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="50"/>](https://www.linkedin.com/in/andreantoine/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="50"/>](https://www.linkedin.com/in/andreantoine/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/1024px-Google_Scholar_logo.svg.png" width="50"/>](https://scholar.google.fr/citations?user=iopU-RcAAAAJ&hl=fr)
