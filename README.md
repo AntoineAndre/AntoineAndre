@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I am Antoine André, a Postdoctoral researcher in Computer Vision at the [JRL CNRS-AIST](https://unit.aist.go.jp/jrl-22022/index_en.html) laboratory of research.
+### I am Antoine André, a researcher in **Computer Vision** for **robotics** at the [JRL CNRS-AIST](https://unit.aist.go.jp/jrl-22022/index_en.html) laboratory of research.
 
 ### 🔬 Research
 
